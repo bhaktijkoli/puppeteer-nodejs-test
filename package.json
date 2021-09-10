@@ -10,7 +10,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "dotenv": "^10.0.0",
-    "express": "^4.17.1"
+    "puppeteer-stream": "^2.0.6"
   }
 }
