@@ -13,6 +13,7 @@ async function record() {
             width: 1920,
             height: 1080,
         },
+        args: ['--no-sandbox']
     });
 
     const page = await browser.newPage();
